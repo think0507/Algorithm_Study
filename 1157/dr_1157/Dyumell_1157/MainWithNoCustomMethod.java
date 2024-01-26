@@ -2,7 +2,7 @@ package Dyumell_1157;
 
 import java.util.Scanner;
 
-public class MainWithNoClass {
+public class MainWithNoCustomClass {
     public static void main(String[] args) {
         int[] arrayIndicatingAlphabetOrder = new int[26];
         char theMostAlphabet;
