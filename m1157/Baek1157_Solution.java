@@ -5,9 +5,7 @@ import java.util.Scanner;
 public class Baek1157_Solution{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        System.out.print("알파벳을 입력하세요: ");
-        String input = scanner.nextLine().toUpperCase();
+         String input = scanner.nextLine().toUpperCase();
 
         // 알파벳 등장 횟수를 저장할 배열 초기화
         int[] alphabetCount = new int[26]; // 알파벳 개수는 26개
@@ -43,9 +41,9 @@ public class Baek1157_Solution{
 
         // 결과 출력
         if (isUnique) {
-            System.out.println("가장 많이 등장한 알파벳: " + maxCountChar);
+            System.out.println(maxCountChar);
         } else {
-            System.out.println("가장 많이 등장한 알파벳이 여러 개입니다: ?");
+            System.out.println('?');
         }
     }
 }
