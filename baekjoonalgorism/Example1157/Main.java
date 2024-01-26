@@ -1,4 +1,4 @@
-package baekjoonalgorism;
+package baekjoonalgorism.Example1157;
 /**
  * 백준 단계 6
  * 1157번 문제
@@ -6,5 +6,8 @@ package baekjoonalgorism;
  * Start : 2024/01/26 PM 4:30
  * End : 2024/01/26 PM 4:
  */
-public class Example1157 {
+public class Main {
+    public static void main(String[] args) {
+
+    }
 }
