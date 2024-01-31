@@ -1,8 +1,8 @@
-package Dyumell_1157;
+package Dyumell.BOJ1157;
 
 import java.util.Scanner;
 
-public class MainWithNoCustomClass {
+public class MainWithNoCustomMethod {
     public static void main(String[] args) {
         int[] arrayIndicatingAlphabetOrder = new int[26];
         char theMostAlphabet;

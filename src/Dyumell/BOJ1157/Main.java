@@ -1,4 +1,4 @@
-package Dyumell_1157;
+package Dyumell.BOJ1157;
 
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+package d_ryeol.BOJ2563;
+
 import java.util.Scanner;
 
 public class Main {

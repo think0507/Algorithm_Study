@@ -1,4 +1,4 @@
-package m1157;
+package wookdong.BOJ1157;
 
 import java.util.Scanner;
 
