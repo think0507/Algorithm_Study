@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="2/1 commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="백준 7568번 commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Study/Jhsol/BOJ1157/1157.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Study/Jhsol/BOJ2563/Jhsol_2563.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Study/sungwoo/BOJ1157/1157.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dyumell/BOJ1157/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dyumell/BOJ1157/MainWithNoCustomMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/d_ryeol/BOJ2563/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jhsol/1157.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jhsol/2563.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jhsol/9237.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seya61/BOJ1157/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/saya61/Example1157/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sungwoo/BOJ1157/1157.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wookdong/BOJ1157/Baek1157_Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +64,7 @@
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -151,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706747791423</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="백준 7568번 commit">
+      <option name="closed" value="true" />
+      <created>1706775523030</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706775523030</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2/1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/1 commit" />
+    <MESSAGE value="백준 7568번 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 7568번 commit" />
   </component>
 </project>
