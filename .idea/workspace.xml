@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="백준 9237 init">
-      <change afterPath="$PROJECT_DIR$/src/d_ryeol/BOJ9237/TimeOutMain.java" afterDir="false" />
+    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="백준 9237">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/d_ryeol/BOJ9237/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_ryeol/BOJ9237/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d_ryeol/BOJ9237/TimeOutMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d_ryeol/BOJ9237/TimeOutMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,10 @@
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/KDT/Algorithm_Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
@@ -69,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706711740652</updated>
       <workItem from="1706711742060" duration="36000" />
-      <workItem from="1706875049805" duration="278000" />
+      <workItem from="1706875049805" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="백준 9237 init">
       <option name="closed" value="true" />
@@ -79,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706875135229</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="백준 9237">
+      <option name="closed" value="true" />
+      <created>1706875378539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706875378539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="백준 9237 init" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 9237 init" />
+    <MESSAGE value="백준 9237" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 9237" />
   </component>
 </project>

@@ -22,7 +22,7 @@ public class Main {
         System.out.println(arr[arr.length-1]+1);
     }
 
-    // 정렬하는 메서드 + 숫자 더하는 메서드
+    // 정렬하는 메서드
     public static void sortArray(int[] arr) {
         Arrays.sort(arr);
     }

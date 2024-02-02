@@ -20,6 +20,7 @@ public class TimeOutMain {
         //다음날 보는것임 +1
         System.out.println(result+1);
     }
+
     // 정렬하는 메서드 + 숫자 더하는 메서드
     public static void sortByBubbleSort(int[] arr) {
         int tmp;
@@ -45,9 +46,9 @@ public class TimeOutMain {
     // 가장 큰수 찾는 메서드
     public static int biggestNumber(int[] arr){
         int bigNum=0;
-        for(int i = 0; i<arr.length;i++){
-            if(arr[i]>bigNum){
-                bigNum = arr[i];
+        for (int j : arr) {
+            if (j > bigNum) {
+                bigNum = j;
             }
         }
         return bigNum;
