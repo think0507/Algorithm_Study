@@ -1,4 +1,4 @@
-package Example1157;
+package seya61.BOJ1157;
 
 import java.io.*;
 import java.util.HashMap;
