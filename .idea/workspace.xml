@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="백준 7568번 commit">
+    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="2/1 commit">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -59,6 +59,8 @@
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/KDT/Algorithm_Study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "모듈",
@@ -98,6 +100,9 @@
       <updated>1706711740652</updated>
       <workItem from="1706711742060" duration="36000" />
       <workItem from="1706746181997" duration="1606000" />
+      <workItem from="1706850129043" duration="104000" />
+      <workItem from="1706853462093" duration="13000" />
+      <workItem from="1706853888303" duration="837000" />
     </task>
     <task id="LOCAL-00001" summary="2/1 commit">
       <option name="closed" value="true" />
@@ -147,15 +152,34 @@
       <option name="project" value="LOCAL" />
       <updated>1706775523030</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706777186584</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706777186584</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2/1 commit" />
     <MESSAGE value="백준 7568번 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 7568번 commit" />
+    <MESSAGE value="2/1 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/1 commit" />
   </component>
 </project>
