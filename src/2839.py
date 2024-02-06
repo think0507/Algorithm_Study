@@ -1,4 +1,4 @@
-'''
+''' chat Gpt solve
 def find_min_bags(n):
     # 5킬로그램 봉지부터 최대한 많이 사용
     bags_5kg = n // 5
@@ -32,9 +32,9 @@ else:
 
 # X = 5k + 3l
 def find_min_lk(x):
-    for n in range(x // 5 + 1):
-        for l in range(5):
-            k = (x - 3 * l) // 5
+    for n in range(x // 5 + 1):                     # 입력 받은 수를 5로 나누고 몫(n) 만큼 outer for 문
+        for l in range(5):                          # L은 5이상 되면 안됨 ( l+k의 최소를 구하는 문제, 3*5는 5*3으로 표현 할 수 있기에 )
+            k = (x - 3 * l) // 5                    # X = 5k + 3l
             if k >= 0 and (3 * l + 5 * k) == x:
                 return l, k
     return -1
