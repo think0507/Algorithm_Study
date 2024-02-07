@@ -56,6 +56,8 @@
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/KDT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "모듈",
@@ -81,7 +83,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
       </set>
     </attachedChunks>
   </component>
@@ -95,6 +97,7 @@
       <updated>1706711740652</updated>
       <workItem from="1706711742060" duration="36000" />
       <workItem from="1706746181997" duration="1606000" />
+      <workItem from="1707293857702" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="2/1 commit">
       <option name="closed" value="true" />
