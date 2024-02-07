@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/Algorithm_Study.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="be88be4c-a118-400c-80ee-ed21f6de4caf" name="변경" comment="백준 7568번 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="think0507" />
+        <option name="repository" value="Algorithm_Study" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4323ff18-26b3-4064-9779-7343eb09d9a2" />
+        <option name="url" value="https://github.com/think0507/Algorithm_Study.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2bixXOaGzpxKuj0texInBs2urq0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,11 +55,13 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/KDT/Algorithm_Study",
+    "last_opened_file_path": "C:/KDT",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,10 +94,65 @@
       <option name="presentableId" value="Default" />
       <updated>1706711740652</updated>
       <workItem from="1706711742060" duration="36000" />
+      <workItem from="1706746181997" duration="1606000" />
     </task>
+    <task id="LOCAL-00001" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706746614718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706746614718</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706746817403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706746817403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706747534055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706747534055</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706747652584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706747652584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2/1 commit">
+      <option name="closed" value="true" />
+      <created>1706747791423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706747791423</updated>
+    </task>
+    <task id="LOCAL-00006" summary="백준 7568번 commit">
+      <option name="closed" value="true" />
+      <created>1706775523030</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706775523030</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2/1 commit" />
+    <MESSAGE value="백준 7568번 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 7568번 commit" />
   </component>
 </project>
