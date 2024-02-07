@@ -1,4 +1,4 @@
-package saya61.Example1157;
+package Example1157;
 
 import java.io.*;
 import java.util.HashMap;
@@ -11,7 +11,7 @@ import java.util.Map;
  * Start : 2024/01/26 PM 4:50
  * End : 2024/01/26 PM 5:20
  */
-public class Main {
+class WordStudy {
     public static void main(String[] args) throws IOException {
         // Scanner 대신 Buffer
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,4 +1,4 @@
-package saya61.Example2839;
+package Example2839;
 
 import java.util.Scanner;
 /**
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * End : 2024/02/06 PM 4:10
  * 과거 C로 풀었던 문제.
  */
-public class Main {
+class SugarDelivery {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int sugar = scanner.nextInt();

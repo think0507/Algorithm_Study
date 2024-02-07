@@ -1,4 +1,4 @@
-package saya61.Example9237;
+package Example9237;
 
 import java.io.*;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import java.util.Arrays;
  * Start : 2024/01/31 PM 5:00
  * End : 2024/01/31 PM 5:40
  */
-public class Main {
+class DirectorInvitation {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

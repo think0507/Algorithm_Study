@@ -1,4 +1,4 @@
-package saya61.Example2444;
+package Example2444;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  * ST. PM 4:20
  * ET. PM 4:30
  */
-public class Main {
+class TakeAStar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

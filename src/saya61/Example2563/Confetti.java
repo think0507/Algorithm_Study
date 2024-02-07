@@ -1,4 +1,4 @@
-package saya61.Example2563;
+package Example2563;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Start : 2024/01/31 PM 4:33
  * End : 2024/01/31 PM 5:00
  */
-public class Main {
+class Confetti {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt();
